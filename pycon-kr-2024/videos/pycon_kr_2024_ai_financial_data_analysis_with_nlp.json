@@ -1,0 +1,25 @@
+{
+    "copyright_text": null,
+    "description": "이 세션에서는 자연어처리(NLP)를 활용하여 금융 데이터를 분석하는 방법을 소개합니다. 파이썬과 인공지능 기법을 활용하여 실제 데이터를 어떻게 분석하고 활용할 수 있는지를 사례를 통해 공유합니다.\n\n김대현\nPyCon Korea 2024에서 발표한 연사로, 금융 데이터와 자연어처리를 활용한 인공지능 분석 경험을 나눕니다.",
+    "duration": 1842,
+    "language": "kor",
+    "recorded": "2025-01-04",
+    "related_urls": [
+        {
+            "label": "인공지능과 파이썬으로 금융 데이터 분석해보기 with 자연어처리 (NLP)",
+            "url": "https://2024.pycon.kr/session"
+        }
+    ],
+    "speakers": [
+        "김대현"
+    ],
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi_webp/pCO04CtCl6c/maxresdefault.webp",
+    "title": "인공지능과 파이썬으로 금융 데이터 분석해보기 with 자연어처리 (NLP)",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=pCO04CtCl6c"
+        }
+    ]
+}
