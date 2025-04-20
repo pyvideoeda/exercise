@@ -1,0 +1,23 @@
+{
+  "copyright_text": null,
+  "description": "I will introduce how to operate various libraries and services in a Python project as a monorepo within a single repository. During this process, our team adopted Rye as our package manager, and I would like to introduce the features of Rye as well.\nIf approached carelessly, a monorepo can significantly increase unnecessary complexity. I will share the methods our team considered and implemented to prevent this while enhancing the advantages of monorepos. I will also introduce my personal experiences in building and operating monorepos.\nThis session is recommended for those who need to build common libraries using Python or operate numerous services in an MSA environment.",
+  "duration": 1207,
+  "language": "kor",
+  "recorded": "2024-10-26",
+  "related_urls": [
+    {
+      "label": "PyCon Korea 2024 Session",
+      "url": "https://2024.pycon.kr/session/Q8FHZH#Rye%EC%99%80-%ED%95%A8%EA%BB%98-%ED%95%98%EB%8A%94-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC"
+    }
+  ],
+  "speakers": ["Subin Kim"],
+  "tags": ["library", "core"],
+  "thumbnail_url": "https://i.ytimg.com/vi/Az-2_F_pCHg/maxresdefault.jpg",
+  "title": "Monorepo with Rye",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Az-2_F_pCHg"
+    }
+  ]
+}
