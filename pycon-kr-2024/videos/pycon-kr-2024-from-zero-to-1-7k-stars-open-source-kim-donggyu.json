@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "In this talk, Donggyu Kim shares his journey of launching an open source project from scratch—literally from 0 lines of code—to achieving 1.7k GitHub stars. He discusses the challenges, strategies, and lessons learned along the way. This session is perfect for developers curious about contributing to or creating open source projects themselves.\n\nDonggyu Kim\nDeveloper and open source enthusiast. Passionate about building tools that help other developers and sharing what he learns along the way.",
+  "duration": 1742,
+  "language": "kor",
+  "recorded": "2025-01-04",
+  "related_urls": [
+    {
+      "label": "Open Source Project – From 0 Lines of Code to 1.7k Stars",
+      "url": "https://2024.pycon.kr/session"
+    }
+  ],
+  "speakers": [
+    "김동규"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi_webp/xnYFgCvyff4/maxresdefault.webp",
+  "title": "오픈소스 프로젝트 - 코드 0줄부터 스타 1.7k까지 - 김동규 [PyCon.KR 2024]",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=xnYFgCvyff4"
+    }
+  ]
+}
