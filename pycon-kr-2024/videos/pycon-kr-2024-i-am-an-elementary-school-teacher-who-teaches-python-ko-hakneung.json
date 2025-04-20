@@ -1,0 +1,25 @@
+{
+    "copyright_text": null,
+    "description": "I am an elementary school teacher who teaches Python to young students. During my classes, I created a small Python package to help students better understand lists and dictionaries in a more engaging way. In this session, I share the process of creating that package, how I used it in my classroom, and a simple method for anyone to build their own mini package. I hope this talk will be helpful to those interested in Python 101 education.\n\nKo Hak-neung\nHello, I am currently working as an elementary school teacher and learning Python together with my students. I'm happy to be presenting at PyCon.KR 2024.",
+    "duration": 1083,
+    "language": "kor",
+    "recorded": "2024-10-26",
+    "related_urls": [
+        {
+            "label": "PyCon.KR 2024 Session Info",
+            "url": "https://2024.pycon.kr/session/8MW8NT#%EC%A0%80%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EA%B0%80%EB%A5%B4%EC%B9%98%EB%8A%94-%EC%B4%88%EB%93%B1%EA%B5%90%EC%82%AC%EC%9E%85%EB%8B%88%EB%8B%A4_"
+        }
+    ],
+    "speakers": [
+        "Ko Hak-neung"
+    ],
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi_webp/kKebMNF_o8s/maxresdefault.webp",
+    "title": "I Am an Elementary School Teacher Who Teaches Python - Ko Hak-neung [PyCon.KR 2024]",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=kKebMNF_o8s"
+        }
+    ]
+}
