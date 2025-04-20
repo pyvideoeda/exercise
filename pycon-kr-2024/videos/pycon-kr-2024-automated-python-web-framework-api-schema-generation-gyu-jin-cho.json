@@ -1,0 +1,25 @@
+{
+    "copyright_text": null,
+    "description": "In this PyCon Korea 2024 session, Gyu-jin Cho presents \"Automated Python Web Framework API Schema Generation: The Long Way Around.\" Based on the Backend.AI project, this talk shares the technical challenges and implementation process of automating API documentation. It covers practical use cases and tools such as FastAPI and OpenAPI, illustrating how to build and manage automated API schemas effectively.",
+    "duration": 1849,
+    "language": "kor",
+    "recorded": "2024-10-27",
+    "related_urls": [
+        {
+            "label": "PyCon Korea 2024 Session",
+            "url": "https://2024.pycon.kr/session"
+        }
+    ],
+    "speakers": [
+        "Gyu-jin Cho"
+    ],
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/RKj327mUbug/maxresdefault.jpg",
+    "title": "Automated Python Web Framework API Schema Generation",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=RKj327mUbug"
+        }
+    ]
+}
