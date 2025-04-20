@@ -3,7 +3,7 @@
     "description": "Explanation of the print function, the function structure of CPython, how the print function works in CPython, I/O modules, stdout, buffer, and raw.",
     "duration": 1995,
     "language": "kor",
-    "recorded": "2025-01-04",
+    "recorded": "2024-10-26",
     "related_urls": [
         {
             "label": "PyCon Korea 2024 - Print Function and CPython Internals",
