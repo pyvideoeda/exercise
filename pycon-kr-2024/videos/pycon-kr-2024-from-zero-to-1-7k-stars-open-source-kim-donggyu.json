@@ -1,21 +1,21 @@
 {
   "copyright_text": null,
-  "description": "In this talk, Donggyu Kim shares his journey of launching an open source project from scratch—literally from 0 lines of code—to achieving 1.7k GitHub stars. He discusses the challenges, strategies, and lessons learned along the way. This session is perfect for developers curious about contributing to or creating open source projects themselves.\n\nDonggyu Kim\nDeveloper and open source enthusiast. Passionate about building tools that help other developers and sharing what he learns along the way.",
+  "description": "Growing a single open-source project can be more challenging than it seems. From deciding to build something from scratch, to promoting it and helping others use it — it all takes serious effort and perseverance. In this talk, I share my journey of developing AutoRAG, an open-source project that grew from 0 lines of code to 1.7k GitHub stars. If you're passionate about open source, this session is for you.\n\nDonggyu Kim\nLead developer of AutoRAG. Specializes in retrieval-augmented generation (RAG) evaluation and optimization.\n\nHe is working to grow AutoRAG from the ground up into a global open-source project for automatic RAG optimization.",
   "duration": 1742,
   "language": "kor",
-  "recorded": "2025-01-04",
+  "recorded": "2024-10-27",
   "related_urls": [
     {
-      "label": "Open Source Project – From 0 Lines of Code to 1.7k Stars",
-      "url": "https://2024.pycon.kr/session/H93ZYB#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8---%EC%BD%94%EB%93%9C-0%EC%A4%84%EB%B6%80%ED%84%B0-%EC%8A%A4%ED%83%80-1_7k%EA%B9%8C%EC%A7%80"
+      "label": "From 0 Lines of Code to 1.7k GitHub Stars – PyCon Korea 2024",
+      "url": "https://2024.pycon.kr/session/H93ZYB"
     }
   ],
   "speakers": [
-    "김동규"
+    "Dongkyu Kim"
   ],
-  "tags": [],
+  "tags": ["open source", "community"],
   "thumbnail_url": "https://i.ytimg.com/vi_webp/xnYFgCvyff4/maxresdefault.webp",
-  "title": "오픈소스 프로젝트 - 코드 0줄부터 스타 1.7k까지 - 김동규 [PyCon.KR 2024]",
+  "title": "Open Source Project – From 0 Lines of Code to 1.7k GitHub Stars - Donggyu Kim [PyCon Korea 2024]",
   "videos": [
     {
       "type": "youtube",
@@ -23,3 +23,6 @@
     }
   ]
 }
+
+
+
