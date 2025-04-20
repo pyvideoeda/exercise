@@ -1,0 +1,30 @@
+{
+    "copyright_text": null,
+    "description": "In this PyCon Korea 2024 session, Jihoon Lee presents 'SpringBoot 하던 사람이 Django 찍먹 해 봄 : 저의 적응기를 공유합니다.' The talk shares the journey of a SpringBoot developer exploring Django for the first time, highlighting the differences between the two frameworks, the learning curve of Django, and personal insights gained during the transition. It offers practical advice for developers considering a switch between backend frameworks.",
+    "duration": 1648,
+    "language": "kor",
+    "recorded": "2025-09-27",
+    "related_urls": [
+        {
+            "label": "PyCon Korea 2024 Session",
+            "url": "https://2024.pycon.kr/session"
+        }
+    ],
+    "speakers": [
+        "Jihoon Lee"
+    ],
+    "tags": [
+        "SpringBoot",
+        "Django",
+        "Python",
+        "Backend Development"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/8X86rDprfEQ/maxresdefault.jpg",
+    "title": "SpringBoot 하던 사람이 Django 찍먹 해 봄 : 저의 적응기를 공유합니다",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=8X86rDprfEQ"
+        }
+    ]
+}
