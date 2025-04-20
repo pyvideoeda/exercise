@@ -3,11 +3,11 @@
   "description": "In this session, Cha Min-gyeong shares her experience of using Python in creative ways to support classroom management and math instruction. By incorporating small Python programs into daily teaching, she was able to make concepts more engaging and practical for students. This talk will walk you through how she introduced Python to students and applied it in real classroom scenarios to improve both learning and classroom operations.",
   "duration": 1791,
   "language": "kor",
-  "recorded": "2025-01-04",
+  "recorded": "2025-10-26",
   "related_urls": [
     {
       "label": "Session Page",
-      "url": "https://2024.pycon.kr/sessions/cha-min-gyeong"
+      "url": "https://2024.pycon.kr/session/BBS8ZA#%EC%88%98%ED%95%99%EC%88%98%EC%97%85-%ED%95%99%EA%B8%89%EA%B2%BD%EC%98%81-%EC%8F%A0%EC%8F%A0%ED%95%9C-Python-%EC%B2%B4%ED%97%98%EA%B8%B0"
     }
   ],
   "speakers": [
