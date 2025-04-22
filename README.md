@@ -5,7 +5,7 @@ pyvideo에 기여하기 위한 연습용 저장소 입니다.
 * Schedule: https://2024.pycon.kr/session
 * Playlist: https://www.youtube.com/watch?v=6FoOfBHp7pc&list=PLZPhyNeJvHRldfheI6KcgektEiXAIPJaY 
 
-##3 ScipyKR 2024
+### ScipyKR 2024
 * Schedule: https://scipy.kr/
 * Playlist: https://www.youtube.com/watch?v=5dSqPL7_6NM&list=PLvMlURxMxExgQuVrbD6Uikfg8Oum7EAR2
 
