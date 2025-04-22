@@ -1,0 +1,23 @@
+{
+    "copyright_text": null,
+    "description": "Explanation of the print function, the function structure of CPython, how the print function works in CPython, I/O modules, stdout, buffer, and raw.",
+    "duration": 1995,
+    "language": "kor",
+    "recorded": "2024-10-26",
+    "related_urls": [
+        {
+            "label": "PyCon Korea 2024 - Print Function and CPython Internals",
+            "url": "https://2024.pycon.kr/session/9VVKV3#printHello-Python"
+        }
+    ],
+    "speakers": [],
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi_webp/aFBLC0BF_Vk/maxresdefault.webp",
+    "title": "print(\"Hello, Python!\") - Byun Do-jin [PyCon.KR 2024]",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=aFBLC0BF_Vk"
+        }
+    ]
+}
