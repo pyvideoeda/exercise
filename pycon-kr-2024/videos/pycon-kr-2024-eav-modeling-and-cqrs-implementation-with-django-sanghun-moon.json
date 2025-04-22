@@ -1,0 +1,25 @@
+{
+    "copyright_text": null,
+    "description": "This presentation explains how EAV (Entity-Attribute-Value) modeling was introduced to implement a no-code tool using Django and MySQL. It also discusses the limitations of EAV modeling in terms of performance and how these were improved by incorporating ideas from CQRS (Command Query Responsibility Segregation). Through this approach, we share experiences in modeling complex services.",
+    "duration": 1096,
+    "language": "kor",
+    "recorded": "2025-01-04",
+    "related_urls": [
+        {
+            "label": "EAV Modeling and CQRS Implementation with Django - Sanghun Moon [PyCon.KR 2024]",
+            "url": "https://2024.pycon.kr/session/389SS8#Django-%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-EAV-%EB%AA%A8%EB%8D%B8%EB%A7%81%EA%B3%BC-CQRS"
+        }
+    ],
+    "speakers": [
+        "Sanghun Moon"
+    ],
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi_webp/zCbj2gxhzJE/maxresdefault.webp",
+    "title": "EAV Modeling and CQRS Implementation with Django - Sanghun Moon [PyCon.KR 2024]",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=zCbj2gxhzJE"
+        }
+    ]
+}
