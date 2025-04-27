@@ -1,6 +1,6 @@
 {
     "copyright_text": null,
-    "description": "",
+    "description": "This session is designed for advanced users and delves into the internal structure of CPython, the primary interpreter of Python. It provides insights into building the interpreter and understanding its core functionalities. It is particularly suited for those who wish to gain a deeper understanding of Python's internal architecture or the core system of the Python language itself.",
     "duration": 2441,
     "language": "kor",
     "recorded": "2025-01-04",
