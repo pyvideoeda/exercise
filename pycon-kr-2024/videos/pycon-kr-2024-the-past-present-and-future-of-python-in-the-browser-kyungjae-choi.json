@@ -1,0 +1,30 @@
+{
+    "copyright_text": null,
+    "description": "This session explores how Python has evolved in browser environments, the current technologies enabling it, and the future possibilities. The speaker introduces various attempts to run Python directly in the browser using tools such as Pyodide and WebAssembly (WASM), and discusses the significance of these advancements.",
+    "duration": 1775,
+    "language": "kor",
+    "recorded": "2024-10-27",
+    "related_urls": [
+        {
+            "label": "The Past, Present, and Future of Python in the Browser - PyCon Korea 2024",
+            "url": "https://2024.pycon.kr/session/9TBWQL#%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%9C%84%EC%9D%98-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%EA%B3%BC%EA%B1%B0-%ED%98%84%EC%9E%AC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AF%B8%EB%9E%98"
+        }
+    ],
+    "speakers": [
+        "Kyungjae Choi"
+    ],
+    "tags": [
+        "python",
+        "webassembly",
+        "pyodide",
+        "browser"
+    ],
+    "thumbnail_url": "https://i.ytimg.com/vi/OqRWVKyJkEQ/maxresdefault.jpg",
+    "title": "The Past, Present, and Future of Python in the Browser - Kyungjae Choi [PyCon.KR 2024]",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=OqRWVKyJkEQ"
+        }
+    ]
+}
