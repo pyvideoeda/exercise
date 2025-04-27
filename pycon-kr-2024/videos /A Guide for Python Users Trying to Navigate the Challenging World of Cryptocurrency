@@ -1,0 +1,20 @@
+{
+    "copyright_text": null,
+    "description": "",
+    "duration": 2170,
+    "language": "kor",
+    "recorded": "2025-01-04",
+    "related_urls": [],
+    "speakers": [
+        "Lee Wangwon"
+    ],
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi/tDjKWfo_RIQ/maxresdefault.jpg",
+    "title": "A Guide for Python Users Trying to Navigate the Challenging World of Cryptocurrency - Lee Wangwon [PyCon.KR 2024]",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=tDjKWfo_RIQ"
+        }
+    ]
+}
