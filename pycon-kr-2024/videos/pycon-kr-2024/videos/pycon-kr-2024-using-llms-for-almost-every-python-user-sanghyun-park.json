@@ -1,0 +1,25 @@
+{
+    "copyright_text": null,
+    "description": "In this session, Sanghyun Park (a.k.a. David) introduces practical ways to utilize large language models (LLMs) for nearly every Python user. The talk explores concrete examples of how LLMs can assist in daily tasks, coding workflows, and developer productivity. Whether you're a beginner or an advanced Pythonista, this session offers ideas for integrating LLMs into your Python practice.\n\nSanghyun Park (David)\nPython developer and tech speaker exploring the intersection of AI and developer tools.",
+    "duration": 1651,
+    "language": "kor",
+    "recorded": "2025-01-04",
+    "related_urls": [
+        {
+            "label": "Using LLMs for Almost Every Python User - PyCon Korea 2024",
+            "url": "https://2024.pycon.kr/session"
+        }
+    ],
+    "speakers": [
+        "Sanghyun Park (David)"
+    ],
+    "tags": [],
+    "thumbnail_url": "https://i.ytimg.com/vi_webp/QYn-oR3x3pU/maxresdefault.webp",
+    "title": "거의 모든 파이썬 이용자를 위한 거대언어모델의 활용 - 박상현 / David [PyCon.KR 2024]",
+    "videos": [
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/watch?v=QYn-oR3x3pU"
+        }
+    ]
+}
